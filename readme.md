@@ -17,3 +17,6 @@ git config --global user.email "fericell2909@gmail.com"
 git config --global core.editor subl
 ```
 Esta linea fue creada en la rama master.
+
+## Varios repositorios remotos
+Podemos configurar cambios para varios repositorios remotos.
