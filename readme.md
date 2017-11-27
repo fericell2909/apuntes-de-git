@@ -17,3 +17,4 @@ git config --global user.email "fericell2909@gmail.com"
 git config --global core.editor subl
 ```
 
+Esta linea se agrego desde un equipo de windows conectado al repositorio local a traves de https.
