@@ -18,5 +18,3 @@ git config --global core.editor subl
 ```
 Esta linea fue creada en la rama master.
 
-## Varios repositorios remotos
-Podemos configurar cambios para varios repositorios remotos.

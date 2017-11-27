@@ -3,3 +3,6 @@
 Con este comando conectamos nuestro repositorio local con github.
 
 ## Realizamos un cambios desde la cuenta de fericell.
+
+## Varios repositorios remotos
+Podemos configurar cambios para varios repositorios remotos.
